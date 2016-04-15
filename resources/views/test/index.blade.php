@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>{{$article->title}}</title>
-	<link rel="stylesheet" type="text/css" href="/css/general.css">
+	<link rel="stylesheet" type="text/css" href="{{asset('css/general.css')}}">
 </head>
 <body>
 
